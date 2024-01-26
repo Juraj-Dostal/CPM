@@ -1,11 +1,6 @@
 **Metóda CPM**
 _____________________________________
-Metóda CPM šluži na
-
-
-
-
-
+Metóda CPM slúži na riešenie úlohy časového planovania. 
 ________________________________________
 **Popis fungovania algoritmu**:
 
@@ -31,7 +26,6 @@ ________________________________________
     - Krok 3. Postupne pre i = n − 1, n − 2, . . . ,1 urob: Pre všetky vrcholy w výstupnej hviezdy vrchola vi také, že w != vi, urob: Ak k(vi) > k(w) − c(w), potom k(vi) == k(w) − c(w) a y(vi) == w.
       
 **Časová rezerva R(A)** činnosti A je R(A) = k(A) − z(A) − p(A).
-
 ________________________________________
 **Ako spustiť**:
 
